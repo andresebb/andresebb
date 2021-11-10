@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">I'm a Frontend Developer</p>
-<small>I became a frontend Developer through platforms such as platzi, udemy and of course youtube.</small>
+<p align="center">I became a frontend Developer through leading education platforms such as <strong>platzi</strong>, <strong>udemy</strong> and of course <strong>youtube.</strong></p>
 
 <!--
 **andresebb/andresebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
