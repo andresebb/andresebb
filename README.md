@@ -1,9 +1,9 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
    <h3 align="center">¡Hey there 👋! I'm Andres Betancourt 👨🏻‍💻</h3>
 </p>
 
-<p align="center">I'm a Frontend Developer fan of <strong>React JS</strong></p>
+<p align="center">I'm a Frontend Developer</p>
+<small>I became a frontend Developer through platforms such as platzi, udemy and of course youtube.</small>
 
 <!--
 **andresebb/andresebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
