@@ -2,8 +2,8 @@
    <h3 align="center">¡Hey there 👋! I'm Andres Betancourt 👨🏻‍💻</h3>
 </p>
 
-<p align="center">I'm a Frontend Developer</p>
-<p align="center">I became a frontend Developer through leading education platforms such as <strong>platzi</strong>, <strong>udemy</strong> and of course <strong>youtube.</strong></p>
+<p align="center bold">I'm a Frontend Developer</p>
+<p align="center">I became a frontend Developer through leading education platforms such as <strong>platzi</strong>, <strong>udemy</strong><strong>youtube.</strong></p>
 
 <!--
 **andresebb/andresebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
