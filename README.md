@@ -2,7 +2,7 @@
    <h3 align="center">¡Hey there 👋! I'm Andres Betancourt 👨🏻‍💻</h3>
 </p>
 
-<p align="center bold">I'm a Frontend Developer</p>
+<h4 align="center">I'm a Frontend Developer</h4>
 <p align="center">I became a frontend Developer through leading education platforms such as <strong>platzi</strong>, <strong>udemy</strong><strong>youtube.</strong></p>
 
 <!--
